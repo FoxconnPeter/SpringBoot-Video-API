@@ -1,0 +1,28 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.imooc</groupId>
+    <artifactId>imooc-videos-dev</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+
+  </parent>
+    <!--打包成war-->
+    <packaging>war</packaging>
+
+
+  <artifactId>imooc-videos-dev-mini-api</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.imooc</groupId>
+  		<artifactId>imooc-videos-dev-service</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+      <!--添加打包依赖-->
+      <dependency>
+          <groupId>javax.servlet</groupId>
+          <artifactId>javax.servlet-api</artifactId>
+          <scope>provided</scope>
+      </dependency>
+
+  </dependencies>
+</project>

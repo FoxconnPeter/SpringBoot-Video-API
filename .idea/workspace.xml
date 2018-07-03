@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="imooc-videos-dev-mini-api:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d73b4ddf-a8bd-4018-80dc-0be9c0f45c26" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-videos-dev-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-videos-dev-service/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-videos-dev-common/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-videos-dev-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/ss/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="imooc-video-dev@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ZKCuratorClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/ZKCuratorClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-231">
+              <caret line="77" column="46" lean-forward="true" selection-start-line="77" selection-start-column="46" selection-end-line="77" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/BasicController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="BgmController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/BgmController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/cofig/ResourceConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/VideoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="59" column="52" lean-forward="true" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserCRUDController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/UserCRUDController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resource-prod.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/resource-prod.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="1" selection-start-column="46" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="imooc-video-dev 20180530.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/imooc-video-dev 20180530.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>USER_REDIS_SESSION</find>
+      <find>sw</find>
+      <find>mybatis</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../hello-world" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../work/thymeleaf-in-action" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mybatis-generatorConfig/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/Swagger2.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/imooc/utils/FFMpegTest.java" />
+        <option value="$PROJECT_DIR$/ss/src/main/java/com/imooc/mybatis/utils/GeneratorDisplay.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/RegistLoginController.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/BgmMapper.xml" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/imooc/utils/MergeVideoMp3.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/VideoController.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/imooc/utils/FetchVideoCover.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/UserController.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f15f7ac3-c31a-401f-9843-9cdc834da9b7/console.sql" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/resource.properties" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/WarStartApplication.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/ZKCuratorClient.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application-prod.properties" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/cofig/ResourceConfig.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/resource-dev.properties" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/resource-prod.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-32" />
+    <option name="y" value="96" />
+    <option name="width" value="1140" />
+    <option name="height" value="679" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-mini-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-mini-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-mini-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-mini-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-mini-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-mini-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="cofig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-mini-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-videos-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-videos-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-videos-dev-mini-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../imooc-video-admin" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2695473" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\soft\workapp\imooc-videos-dev\imooc-videos-dev-mini-api\src\main\resources" />
+      <recent name="E:\soft\workapp\imooc-videos-dev\imooc-videos-dev-mini-api\src\main\java\com\imooc\controller" />
+      <recent name="E:\soft\workapp\imooc-videos-dev\ss" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\soft\workapp\imooc-videos-dev\ss" />
+      <recent name="E:\soft\workapp\imooc-videos-dev\ss\src\main\resources" />
+      <recent name="E:\soft\workapp\imooc-videos-dev\ss\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="FetchVideoCover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.utils.FetchVideoCover" />
+      <module name="imooc-videos-dev-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="GeneratorDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.mybatis.utils.GeneratorDisplay" />
+      <module name="mybatis-generatorConfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.mybatis.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MergeVideoMp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.utils.MergeVideoMp3" />
+      <module name="imooc-videos-dev-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="imooc-videos-dev-mini-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.GeneratorDisplay" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Application.FetchVideoCover" />
+      <item itemvalue="Application.MergeVideoMp3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Application.MergeVideoMp3" />
+        <item itemvalue="Application.GeneratorDisplay" />
+        <item itemvalue="Application.FetchVideoCover" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d73b4ddf-a8bd-4018-80dc-0be9c0f45c26" name="Default" comment="" />
+      <created>1529749537081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529749537081</updated>
+      <workItem from="1529749539431" duration="2303000" />
+      <workItem from="1529805460388" duration="8164000" />
+      <workItem from="1529885190179" duration="6169000" />
+      <workItem from="1529970401605" duration="12270000" />
+      <workItem from="1530060482523" duration="21249000" />
+      <workItem from="1530145373546" duration="10228000" />
+      <workItem from="1530164953402" duration="8744000" />
+      <workItem from="1530230745586" duration="19652000" />
+      <workItem from="1530522602189" duration="5310000" />
+      <workItem from="1530575919135" duration="4206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="98295000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-32" y="96" width="1140" height="679" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.13518518" side_tool="true" visible="true" weight="0.13653137" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.6569893" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32934684" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.41935483" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49967596" weight="0.32988358" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49892473" weight="0.32779622" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8648148" weight="0.23431735" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29907408" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.22025913" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49967596" weight="0.32890365" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/imooc/utils/MyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/imooc/mapper/UsersMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/imooc/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.5.3/mapper-3.5.3-sources.jar!/tk/mybatis/mapper/common/example/SelectOneByExampleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/imooc/mapper/CommentsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/imooc/mapper/UsersFansMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/imooc/enums/BGMOperatorTypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="75" column="31" lean-forward="true" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/interceptor/MiniInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/net/AbstractPlainSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f15f7ac3-c31a-401f-9843-9cdc834da9b7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0-sources.jar!/org/apache/curator/framework/recipes/cache/PathChildrenCacheEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0-sources.jar!/org/apache/curator/framework/recipes/cache/ChildData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="545" selection-start-line="545" selection-end-line="545" />
+          <folding>
+            <element signature="e#20727#20728#0" expanded="true" />
+            <element signature="e#20771#20772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/charset/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="653" selection-start-line="653" selection-end-line="653" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/StringCoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/ref/Reference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="253" selection-start-line="253" selection-end-line="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/ref/SoftReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/jar/JarFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="980" selection-start-line="980" selection-end-line="980" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="556" selection-start-line="556" selection-end-line="556" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="1637" selection-start-line="1637" selection-end-line="1637" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="395" selection-start-line="395" selection-end-line="395" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/1.3.2/commons-io-1.3.2-sources.jar!/org/apache/commons/io/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ss/src/main/java/com/imooc/mybatis/utils/GeneratorDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/resource.properties" />
+    <entry file="uml://MAVEN/com.imooc:imooc-videos-dev-common:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.imooc:imooc-videos-dev-common:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.imooc:imooc-videos-dev-common:0.0.1-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.12.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.12.RELEASE/org.springframework.boot:spring-boot:jar:1.5.12.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.12.RELEASE/org.springframework.boot:spring-boot:jar:1.5.12.RELEASE/org.springframework:spring-context:jar:4.3.16.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.12.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.12.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.12.RELEASE/org.springframework:spring-core:jar:4.3.16.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:1.5.12.RELEASE/org.yaml:snakeyaml:jar:1.17</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.8.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.8.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.8.RELEASE/org.slf4j:slf4j-log4j12:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-log4j:jar:1.3.8.RELEASE/log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-aop:jar:1.5.12.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-aop:jar:1.5.12.RELEASE/org.springframework:spring-aop:jar:4.3.16.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-aop:jar:1.5.12.RELEASE/org.springframework:spring-aop:jar:4.3.16.RELEASE/org.springframework:spring-beans:jar:4.3.16.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-aop:jar:1.5.12.RELEASE/org.aspectj:aspectjweaver:jar:1.8.13</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.12.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.12.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.29</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.12.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.29/org.apache.tomcat:tomcat-annotations-api:jar:8.5.29</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.12.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.29</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.12.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.29</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.11.1/com.fasterxml.jackson.core:jackson-core:jar:2.8.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/org.springframework:spring-web:jar:4.3.16.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/org.springframework:spring-webmvc:jar:4.3.16.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.12.RELEASE/org.springframework:spring-webmvc:jar:4.3.16.RELEASE/org.springframework:spring-expression:jar:4.3.16.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-configuration-processor:jar:1.5.12.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.12.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.12.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.12.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.6.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.12.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.6.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.6.RELEASE/ognl:ognl:jar:3.0.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.12.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.6.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.6.RELEASE/org.javassist:javassist:jar:3.21.0-GA</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.12.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.6.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.6.RELEASE/org.unbescape:unbescape:jar:1.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.12.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.12.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.4.0/org.codehaus.groovy:groovy:jar:2.4.15</node>
+            <node x="" y="">com.alibaba:druid:jar:1.1.0</node>
+            <node x="" y="">com.alibaba:druid:jar:1.1.0/com.alibaba:jconsole:jar:1.8.0</node>
+            <node x="" y="">com.alibaba:druid:jar:1.1.0/com.alibaba:tools:jar:1.8.0</node>
+            <node x="" y="">com.alibaba:druid-spring-boot-starter:jar:1.1.0</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.41</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.12.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.12.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.29</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.12.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.29/org.apache.tomcat:tomcat-juli:jar:8.5.29</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.12.RELEASE/org.springframework:spring-jdbc:jar:4.3.16.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.1</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis:jar:3.4.5</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis-spring:jar:1.3.1</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:1.2.4</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:1.2.4/tk.mybatis:mapper-spring-boot-autoconfigure:jar:1.2.4</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:1.2.4/tk.mybatis:mapper:jar:3.5.3</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:1.2.4/tk.mybatis:mapper:jar:3.5.3/javax.persistence:persistence-api:jar:1.0</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.3</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2/com.github.jsqlparser:jsqlparser:jar:1.0</node>
+            <node x="" y="">commons-codec:commons-codec:jar:1.11</node>
+            <node x="" y="">org.apache.commons:commons-lang3:jar:3.4</node>
+            <node x="" y="">commons-io:commons-io:jar:1.3.2</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.swagger:swagger-annotations:jar:1.5.6</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.swagger:swagger-models:jar:1.5.6</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.springfox:springfox-spi:jar:2.4.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.springfox:springfox-spi:jar:2.4.0/io.springfox:springfox-core:jar:2.4.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.springfox:springfox-schema:jar:2.4.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.springfox:springfox-swagger-common:jar:2.4.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/io.springfox:springfox-spring-web:jar:2.4.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/com.google.guava:guava:jar:18.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.4.0/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE</node>
+            <node x="" y="">io.springfox:springfox-swagger-ui:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:1.5.12.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:1.5.12.RELEASE/org.springframework.data:spring-data-redis:jar:1.8.11.RELEASE</node>
+            <node x="" y="">redis.clients:jedis:jar:2.9.0</node>
+            <node x="" y="">redis.clients:jedis:jar:2.9.0/org.apache.commons:commons-pool2:jar:2.4.3</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.8.7.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.8.7.RELEASE/org.springframework.data:spring-data-keyvalue:jar:1.2.11.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.8.7.RELEASE/org.springframework.data:spring-data-keyvalue:jar:1.2.11.RELEASE/org.springframework.data:spring-data-commons:jar:1.13.11.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.8.7.RELEASE/org.springframework:spring-tx:jar:4.3.16.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.8.7.RELEASE/org.springframework:spring-oxm:jar:4.3.16.RELEASE</node>
+            <node x="" y="">org.springframework.data:spring-data-redis:jar:1.8.7.RELEASE/org.springframework:spring-context-support:jar:4.3.16.RELEASE</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.0.0</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.0.0/org.apache.curator:curator-client:jar:4.0.0</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.0.0/org.apache.curator:curator-client:jar:4.0.0/org.apache.zookeeper:zookeeper:jar:3.5.3-beta</node>
+            <node x="" y="">org.apache.curator:curator-framework:jar:4.0.0/org.apache.curator:curator-client:jar:4.0.0/com.google.guava:guava:jar:20.0</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.11</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.11/log4j:log4j:jar:1.2.16</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.11/jline:jline:jar:0.9.94</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.11/jline:jline:jar:0.9.94/junit:junit:jar:4.12</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.11/jline:jline:jar:0.9.94/junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.11/org.apache.yetus:audience-annotations:jar:0.5.0</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.11/io.netty:netty:jar:3.10.5.Final</node>
+            <node x="" y="">org.apache.curator:curator-recipes:jar:4.0.0</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.017016063163626464" x="15387.0" y="750.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application-prod.properties" />
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application-dev.properties" />
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/resource-dev.properties" />
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/HelloWorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/imooc/utils/RedisOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/RegistLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/WarStartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
+          <folding>
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/BasicController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/BgmController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/cofig/ResourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/imooc-video-dev 20180530.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/resource-prod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="1" selection-start-column="46" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/ZKCuratorClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="77" column="46" lean-forward="true" selection-start-line="77" selection-start-column="46" selection-end-line="77" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/VideoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="59" column="52" lean-forward="true" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/UserCRUDController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>imooc-videos-dev-mini-api:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2695473" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>imooc-videos-dev</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2695473" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

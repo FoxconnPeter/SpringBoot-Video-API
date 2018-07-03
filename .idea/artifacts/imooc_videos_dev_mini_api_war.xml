@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="imooc-videos-dev-mini-api:war">
+    <output-path>$PROJECT_DIR$/imooc-videos-dev-mini-api/target</output-path>
+    <root id="archive" name="imooc-videos-dev-mini-api-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="imooc-videos-dev-mini-api:war exploded" />
+    </root>
+  </artifact>
+</component>
